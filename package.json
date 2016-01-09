@@ -1,0 +1,19 @@
+{
+  "name": "dicebot",
+  "version": "1.0.0",
+  "description": "Dice roll bot for Telegram",
+  "main": "dicebot.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christilut/telegram_diceBot.git"
+  },
+  "author": "Christilut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christilut/telegram_diceBot/issues"
+  },
+  "homepage": "https://github.com/Christilut/telegram_diceBot#readme"
+}
