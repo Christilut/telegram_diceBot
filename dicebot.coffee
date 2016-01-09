@@ -14,7 +14,7 @@ botcmds = [
   'dice'
 ]
 
-console.log botname + ' started...'
+console.log botname + ' started...' 
 
 bot = new TelegramBot
   token: token
